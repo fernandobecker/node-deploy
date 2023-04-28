@@ -1,6 +1,8 @@
-Guia de passos do projeto 🚀
-Aplicação:
+# Guia de passos do projeto 🚀
 
+## Aplicação:
+
+```
 1. npm init -y
 2. npm install -D typescript @types/node tsx tsup
 3. npx tsc --init
@@ -51,3 +53,4 @@ Aplicação:
 	"start": "node dist/server.js"
 18. No .gitignore adicionar a pasta dist
 19. Criar repositório no Git
+```
